@@ -76,6 +76,7 @@
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=sql&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PL/SQL-4479B5?style=flat-square&logo=plsql&logoColor=white" />
         <br />
         <img src="https://img.shields.io/badge/Pentaho_(ETL)-005D89?style=flat-square&logo=pentaho&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
