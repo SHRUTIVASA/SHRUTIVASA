@@ -117,17 +117,17 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Minor Stroke Detection App](YOUR_GITHUB_LINK)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-> A multimodal system designed for early diagnosis. It uses neural networks to analyze **speech characteristics**, **arm coordination** (tap test), and **facial symmetry** (Computer Vision) to detect signs of minor strokes before they become critical.
+### 🧠 [Preliminary Minor Stroke Detection App](https://github.com/SHRUTIVASA/Preliminary-Minor-Stroke-Detection-App)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Medical AI](https://img.shields.io/badge/Medical_AI-E91E63?style=flat-square&logo=google-health&logoColor=white) ![Healthcare Analytics](https://img.shields.io/badge/Healthcare_Analytics-00BFA5?style=flat-square&logo=tableau&logoColor=white) ![AI Diagnosis](https://img.shields.io/badge/Early_Diagnosis-FF5252?style=flat-square&logo=target&logoColor=white) ![Applied ML](https://img.shields.io/badge/Applied_ML-3F51B5?style=flat-square&logo=tableau&logoColor=white)
+> Designed modules using neural networks and OpenCV to detect minor strokes. The model used deep learning to analyze speech characteristics, the tap test to assess arm coordination, and computer vision to check the symmetry of the face. The objective was early diagnosis and prevention.
 
-### 🏠 [House Price Prediction Engine](YOUR_GITHUB_LINK)
-![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-> A high-precision valuation tool using **Ensemble Learning**. By stacking voting regressors, this model eliminates human bias in real estate pricing, offering reliable, objective property value estimates.
+### 🏠 [House Price Prediction Engine](https://github.com/SHRUTIVASA/House_Price_Prediction)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-000000?style=flat-square&logo=anaconda&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Ensemble Learning](https://img.shields.io/badge/Ensemble_Learning-20BEFF?style=flat-square&logo=scikit-learn&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-430098?style=flat-square&logo=google-data-studio&logoColor=white)
+> Developed with the aid of machine learning ensemble models, to offer reliable estimates of property value based on objective analysis and an intuitive interface.
 
-### 🏢 [Corporate Checklist System](YOUR_GITHUB_LINK)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-> An in-house, corporate-grade system designed to manage complex data tasking. Streamlined workflow management and enhanced productivity for organizational operations.
+### 🏢 [Corporate Checklist System](https://github.com/SHRUTIVASA/taskify)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
+> Developed an in-house checklist system that is corporate-level, which simplified the management of complex data for tasking, thus enhancing productivity in organizations.
 
 <br />
 
