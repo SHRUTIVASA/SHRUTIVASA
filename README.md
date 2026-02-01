@@ -6,7 +6,7 @@
 
 <p align="center" style="font-size: 16px; max-width: 780px; margin: auto;">
   I work at the intersection of <b>applied AI research</b>, <b>engineering rigor</b>, and 
-  <b>data-driven system design</b>—focused on transforming ideas from papers into 
+  <b>data-driven system design</b>—focused on transforming ideas into 
   production-ready solutions.
 </p>
 
