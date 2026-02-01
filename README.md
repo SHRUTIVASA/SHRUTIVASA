@@ -1,31 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=320&section=header&text=DATA%20SCIENTIST%20&%20RESEARCHER&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=AI%20|%20Computer%20Vision%20|%20System%20Architecture&descAlignY=55&descAlign=50" width="100%"/>
-</div>
 
-<div align="center">
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=Building+Next-Gen+AI+for+Healthcare;Published+IEEE+Researcher;10.0+SGPI+%7C+Rank+3+Scholar;Expert+in+Deep+Learning+%26+Oracle" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0011450&center=true&vCenter=true&width=600&lines=DATA+SCIENTIST;RESEARCH+ENGINEER;ORACLE+EXPERT;AI+RESEARCHER;ML+ENGINEER;SQL+ARCHITECT;R%26D+ENGINEER(AIML)" alt="Typing SVG" />
   </a>
 
+  <br />
+
   <h3>
-    🚀 Bridging the gap between <b>Research-Grade AI</b> and <b>Enterprise Data Systems</b>
+    Bridging the gap between <b>Theoretical Research</b> and <b>Real-World Utility</b>.
   </h3>
-  
-  <p>
-    <i>"Transforming complex data into life-saving diagnoses."</i>
+
+<p style="font-size: 17px; color: #333;">
+    <b>Published Researcher</b> &nbsp;•&nbsp; 
+    <b>R&D Engineer</b> &nbsp;•&nbsp; 
+    <b>State-Level Athlete</b>
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:your-email@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </p>
+  <br />
+
+  <a href="https://linkedin.com/in/shrutivasa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://shrutivasa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:shrutivasa07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br />
+  <br />
+  <hr />
 
 </div>
 
