@@ -1,6 +1,5 @@
 <div align="center">  
-<br />
-
+  
 <h2 align="center">
   Turning Research into Scalable, Real-World Systems
 </h2>
@@ -131,7 +130,6 @@
 <br />
 
 ## 🏆 Achievements & Interests
-* 🥇 **10.0 SGPI** (Final Semester) | **Rank 3** (Comp. Eng. Batch 2025)
 * 🤾 **Sports:** State Level Handball Player | District Dodgeball Medalist
 * 🎖️ **Track & Field:** Medalist in Discus Throw & Javelin
 
