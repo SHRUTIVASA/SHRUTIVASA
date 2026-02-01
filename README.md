@@ -1,23 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=280&section=header&text=DATA%20SCIENTIST%20&%20RESEARCHER&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20|%20Deep%20Learning%20|%20Database%20Architecture&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=320&section=header&text=DATA%20SCIENTIST%20&%20RESEARCHER&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=AI%20|%20Computer%20Vision%20|%20System%20Architecture&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+AI+for+Healthcare;Published+IEEE+Researcher;10.0+SGPI+Academic+Topper;Expert+in+Oracle+%26+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=Building+Next-Gen+AI+for+Healthcare;Published+IEEE+Researcher;10.0+SGPI+%7C+Rank+3+Scholar;Expert+in+Deep+Learning+%26+Oracle" alt="Typing SVG" />
   </a>
+
+  <h3>
+    🚀 Bridging the gap between <b>Research-Grade AI</b> and <b>Enterprise Data Systems</b>
+  </h3>
   
   <p>
-    I am a <b>Computer Engineering Scholar (Rank 3)</b> bridging the gap between <br>
-    <b>Research-grade AI</b> and <b>Enterprise Database Systems</b>.
+    <i>"Transforming complex data into life-saving diagnoses."</i>
   </p>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+
 </div>
 
 <br />
@@ -119,14 +128,3 @@
 * 🎖️ **Track & Field:** Medalist in Discus Throw & Javelin
 
 <br />
-
-<h2 align="center">📊 Coding Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=100&section=footer" width="100%"/>
-</div>
