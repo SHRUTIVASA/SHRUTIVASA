@@ -130,9 +130,3 @@
 > Developed an in-house checklist system that is corporate-level, which simplified the management of complex data for tasking, thus enhancing productivity in organizations.
 
 <br />
-
-## 🏆 Achievements & Interests
-* 🤾 **Sports:** State Level Handball Player | District Dodgeball Medalist
-* 🎖️ **Track & Field:** Medalist in Discus Throw & Javelin
-
-<br />
