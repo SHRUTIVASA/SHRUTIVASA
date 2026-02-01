@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B86E5,36D1DC,8E2DE2&height=220&section=header&text=PUBLISHED%20RESEARCHER%20%E2%80%A2%20R%26D%20ENGINEER%20%E2%80%A2%20ATHLETE&fontSize=26&fontColor=ffffff&fontAlignY=45" width="100%">
-
+<div align="center">  
 <br />
 
 <h2 align="center">
