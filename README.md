@@ -46,7 +46,7 @@
 | **2025** | **A Comprehensive Review of Multimodal Techniques for Early Detection of Minor Strokes** | *Taylor & Francis Proceedings (ICTEAH)* |
 | **2024** | **StrokeAlert: Early Detection of Minor Strokes** | *IEEE Conference (AECE)* |
 | **2023** | **Analyzing Stacking & Voting Regressors for House Price Prediction** | *UGC Care Group 1 Journal (Anvesak)* |
-| *Pending* | **TeleHealth: Leveraging ML/DL for Preliminary Minor Stroke Detection** | *Under Review* |
+| *Pending* | **TeleHealth: Leveraging Machine Learning and Deep Learning Techniques for Preliminary Minor Stroke Detection** | *Under Review* |
 
 <br />
 
