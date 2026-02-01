@@ -7,7 +7,7 @@
   <br />
 
   <h3>
-    Bridging the gap between <b>Theoretical Research</b> and <b>Real-World Utility</b>.
+    Passionate about applied AI research and building solid data foundations.
   </h3>
 
 <p style="font-size: 17px; color: #333;">
