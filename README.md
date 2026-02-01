@@ -1,20 +1,25 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B86E5,36D1DC,8E2DE2&height=220&section=header&text=PUBLISHED%20RESEARCHER%20%E2%80%A2%20R%26D%20ENGINEER%20%E2%80%A2%20ATHLETE&fontSize=26&fontColor=ffffff&fontAlignY=45" width="100%">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0011450&center=true&vCenter=true&width=600&lines=DATA+SCIENTIST;RESEARCH+ENGINEER;ORACLE+EXPERT;AI+RESEARCHER;ML+ENGINEER;SQL+ARCHITECT;R%26D+ENGINEER(AIML)" alt="Typing SVG" />
-  </a>
+<br />
 
-  <br />
+<h2 align="center">
+  Turning Research into Scalable, Real-World Systems
+</h2>
 
-  <h3>
-    Passionate about applied AI research and building solid data foundations.
-  </h3>
+<p align="center" style="font-size: 16px; max-width: 780px; margin: auto;">
+  I work at the intersection of <b>applied AI research</b>, <b>engineering rigor</b>, and 
+  <b>data-driven system design</b>—focused on transforming ideas from papers into 
+  production-ready solutions.
+</p>
 
-<p style="font-size: 17px; color: #333;">
-    <b>Published Researcher</b> &nbsp;•&nbsp; 
-    <b>R&D Engineer</b> &nbsp;•&nbsp; 
-    <b>State-Level Athlete</b>
-  </p>
+<br />
+
+<p align="center" style="font-size: 16px;">
+  🧠 <b>Published Researcher</b> &nbsp;•&nbsp; 
+  🛠️ <b>R&amp;D Engineer</b> &nbsp;•&nbsp; 
+  🏃 <b>State-Level Athlete</b>
+</p>
 
   <br />
 
