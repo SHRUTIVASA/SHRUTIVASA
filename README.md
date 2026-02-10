@@ -13,9 +13,8 @@
 <br />
 
 <p align="center" style="font-size: 18px; font-family: sans-serif; color: #333;">
-  🧠 <b>AI/ML Researcher</b> &nbsp;•&nbsp; 
-  📊 <b>Data Scientist</b> &nbsp;•&nbsp; 
-  🏃 <b>State-Level Athlete</b>
+  🧠 <b>AIML Researcher</b> &nbsp;•&nbsp; 
+  📊 <b>Aspiring Data Scientist</b> &nbsp;•&nbsp;
 </p>
 
   <br />
