@@ -14,7 +14,7 @@
 
 <p align="center" style="font-size: 18px; font-family: sans-serif; color: #333;">
   🧠 <b>AIML Researcher</b> &nbsp;•&nbsp; 
-  📊 <b>Aspiring Data Scientist</b> &nbsp;•&nbsp;
+  📊 <b>Aspiring Data Scientist</b> &nbsp;
 </p>
 
   <br />
